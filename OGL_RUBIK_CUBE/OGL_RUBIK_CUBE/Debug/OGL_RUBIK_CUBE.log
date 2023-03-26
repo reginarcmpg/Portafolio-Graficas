@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\gl\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\PC\Documents\Facultad\6to\Graficas\OGL_RUBIK_CUBE\OGL_RUBIK_CUBE\main.cpp(227,31): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\PC\Documents\Facultad\6to\Graficas\OGL_RUBIK_CUBE\OGL_RUBIK_CUBE\main.cpp(232,30): warning C4305: '=': truncamiento de 'double' a 'float'
+  OGL_RUBIK_CUBE.vcxproj -> C:\Users\PC\Documents\Facultad\6to\Graficas\OGL_RUBIK_CUBE\Debug\OGL_RUBIK_CUBE.exe
